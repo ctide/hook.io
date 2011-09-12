@@ -45,6 +45,7 @@
 # Getting Start / Demo
 
      npm install hook.io-helloworld -g
+     npm install hook.io -g
 
 Now run:
 
